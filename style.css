@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+
+.navrow{
+    padding: 10px 0px;
+}
+.navmenu{
+    background-color: #ffffff;
+}
+.navlinks ul li{
+    text-align: end !important;
+    justify-content: end !important;
+
+}
+.logoimg{
+    width: 60px;
+}
+
+.sliderHeading{
+    font-size: 6rem;
+}
+.slidertext{
+    font-size: 1.7rem;
+}
+
+.consultaionbutton{
+    border-radius: 7px !important;
+    padding: 10px !important;
+    background-color: #191A23 !important;
+    color: #f3f3f3 !important;
+}
+.client-logos{
+    margin-top: 20px;
+}
+.client-logos img{    
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.servicerow{
+    display: flex;
+    align-items: center;
+
+}
+.serviceheading{
+    font-size: 5rem;
+    font-weight: 800;
+    background-color: #B9FF66;
+    width: 70%;
+}
+.servicetext{
+    font-size: 1.7rem;
+    width: 70%;
+}
+
+
+
+.seo{
+    background-color: #B9FF66;
+    color: #191A23 !important;
+    font-size: 1.7rem !important;
+}
